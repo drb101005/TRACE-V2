@@ -1,0 +1,8 @@
+.venv/
+cat >> .gitignore <<'EOF'
+
+uploads/
+*.db
+.env
+EOF
+.env

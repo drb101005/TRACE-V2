@@ -1,0 +1,4 @@
+# Append these lines to your existing .gitignore
+uploads/
+*.db
+.env

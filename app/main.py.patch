@@ -1,0 +1,3 @@
+# Optional change: update /api/v1/metadata in app/main.py to show phase 2.
+# Replace "phase": 1 with "phase": 2 and update implemented_capabilities to include
+# "uploads", "validation", "column_mapping", "ingestion_jobs", "source_records".
